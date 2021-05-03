@@ -58,6 +58,8 @@
       <li> Regions = /region </li> 
       <li> Version = /version </li> </i>
   </ul> 
+  <li> Run on Postman to GET data (.json file). Ex: localhost:6060/pokemon</li>
+  <li> Wait for the response output </li>
  </ul>
 </h3> <br>
 
