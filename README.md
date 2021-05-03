@@ -43,7 +43,7 @@
   <li> $ npm install axios express --save </li>
   <li> $ npm start </li>
   <li> Wait and it will be running on web browser <a href = "http://localhost:6060"> localhost:6060 </a> </li>
-  <li> Run localhost:6060 on Postman </li>
+  <li> Run <a href = "http://localhost:6060"> localhost:6060 </a> on Postman </li>
   <li> Get the List of information with changing the directory </li>
     <ul> <i>
       <li> Pokemon = /pokemon </li> 
