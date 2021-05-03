@@ -1,7 +1,7 @@
 # PokePoke
 <h3> Made by <br> Name = Nicky <br> NIM = 03082180028 </h3>
 <h1> Overview </h1>
-  <h3> Information around the world of Pokemon by consuming PokeAPI <br> With the information such as: <br/>
+  <h3> Information around the world of Pokemon by consuming <a href = "https://pokeapi.co/api/v2/"> PokeAPI </a> <br> With the information such as: <br/>
   <ul> 
     <li> Pokemon </li> 
     <li> Pokedex </li> 
