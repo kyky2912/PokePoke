@@ -1,3 +1,4 @@
+
 # PokePoke
 <h3> Made by <br> Name = Nicky <br> NIM = 03082180028 </h3>
 <h1> Overview </h1>
@@ -63,7 +64,8 @@
 <h1> Documentation </h1>
   <ul>
   <li> <h3> Apiary: <a href = "https://nikiniki.docs.apiary.io/"> <i> nikiniki.docs.apiary.io </i> </a> </h3> </li>
-  <li> <h3> Docs: <a href = "https://nikiniki.docs.apiary.io/"> <i> Architecture Documentation || SOON! </i> </a> </h3> </li>
+  <li> <h3> Docs: <a href = "https://nikiniki.docs.apiary.io/"> <i> Architecture Documentation <a href = [UAS.pdf](https://github.com/kyky2912/PokePoke/files/6413579/UAS.pdf)</a>
+</i> </a> </h3> </li>
   </ul>
   <br>
   
